@@ -1,0 +1,32 @@
+
+    h1{
+        color:brown;
+    } 
+    body{
+        background-color:aliceblue;
+    }
+    *{
+        border:rgb(255, 0, 0);
+    }
+
+    .header{ 
+        background-color:darkgray; 
+        display: flex; 
+
+        justify-content: space-between; 
+       
+    } 
+
+    .grid{ 
+        background-color: blueviolet; 
+        display: flex; 
+        flex-wrap: wrap;
+        justify-content: space-evenly; 
+        
+
+    } 
+
+    .footer{ 
+        display: flex; 
+        justify-content:space-evenly;
+    }
